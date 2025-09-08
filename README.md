@@ -22,8 +22,9 @@ guarantee data accuracy.
 
 # 📂 Project Structure
 Disability_Mapping_System/
-│── backend/ # Node.js server & APIs
-│── frontend/ # React frontend code
-│── index.js # Entry point
-│── package.json # Dependencies
-│── README.md # Project documentation
+  -backend/ # Node.js server & APIs
+  -frontend/ # React frontend code
+  -index.js # Entry point
+  -package.json # Dependencies
+  -README.md # Project documentation
+  -Results #results of project

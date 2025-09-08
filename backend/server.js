@@ -13,7 +13,7 @@ app.use(express.json());
 app.use(cors()); // Allow frontend requests
 // MongoDB Connection
 const mongoURI =
-"mongodb+srv://vanshika:vanshika123@cluster0.lmshd.mongodb.net/?retryWrites=true&w=
+//HIDDEN
 majority&appName=Cluster0";
 mongoose
 .connect(mongoURI, {
